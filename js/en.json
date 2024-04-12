@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "index": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "curriculum": "Work with Us",
+    "cotizar": "Quote"
+  },
+  "slider": {
+    "titulo-1": "Designing and Tailoring Every Solution",
+    "parrafo-1": "We design and tailor every solution to meet the needs of our clients.",
+    "titulo-2": "Strategic Solutions",
+    "parrafo-2": "We provide strategic solutions to our clients, bringing peace of mind to their businesses."
+  },
+  "btn-sup": {
+    "whatsapp": "Commercial",
+    "cv": "Work with Us"   
+  },
+  "ventajas": {
+    "titulo-ventaja": "Our Advantages",
+    "ventaja-1": "Extensive Experience",
+    "parrafo-ventaja-1": "We have extensive experience in labor outsourcing in general (including trade and industry), currently with the highest number of business relationships in the automotive industry and its suppliers.",
+    "ventaja-2": "Designing and Tailoring Every Solution",
+    "parrafo-ventaja-2": "We design and tailor every solution to meet the needs of our clients.",
+    "ventaja-3": "Immediate Responses",
+    "parrafo-ventaja-3": "Our policy aims to provide an immediate response to our clients.",
+    "ventaja-4": "Strategic Solutions",
+    "parrafo-ventaja-4": "We provide strategic solutions to our clients, bringing peace of mind to their businesses.",
+    "ventaja-5": "Own Headquarters in Brazil",
+    "parrafo-ventaja-5": "We have our own headquarters in Brazil, which facilitates and streamlines administrative and operational processes for our clients in both the region and Europe."
+  },
+  "work": {
+    "btn-conozcamejor": "Learn More About Us",
+    "trabajo-titulo": "Working...",
+    "trabajo-parrafo": "Through constant dedication and relentless effort, we build our professional path, facing challenges and achieving milestones that progressively bring us closer to our career goals."
+  },
+  "footer-menu": {
+    "index-footer": "Home",
+    "about-footer": "About Us",
+    "services-footer": "Services",
+    "contact-footer": "Contact"
+  },
+  "about": {
+    "about-titulo-1": "About Us",
+    "about-parrafo-1": "We are a Service Company focused on quality, logistics, engineering, technology, and maintenance areas for various businesses. We design and adapt each solution to our clients' needs.",
+    "about-titulo-2": "Our Story",
+    "about-parrafo-2": "Calycon S.A., alongside its partners, was founded in the province of Córdoba, Argentina in 2014. We primarily possess extensive experience in labor outsourcing for the automotive terminal sector, as well as activities for its parts suppliers. This includes handling non-conforming material, its recovery and reconditioning, and providing comprehensive logistic support services to address every need.",
+    "about-parrafo-3": "Additionally, we have our own headquarters in Brazil, allowing us to facilitate and streamline administrative and operational processes for our clients in both the region and Europe.",
+    "about-titulo-4": "Our Policies",
+    "about-parrafo-4": "Our policy aims to provide an immediate response to our Customers, offering a strategic solution for their products, bringing peace of mind to each of their Businesses.",
+    "about-titulo-5": "Our Mission",
+    "about-parrafo-5": "Our mission as a company will be to build a strong portfolio of satisfied clients with our services over the next 10 years, becoming the best choice for any market niche that requires our skilled workforce.",
+    "about-titulo-6": "Our Vision",
+    "about-parrafo-6": "Our company's vision is to be an organization with a strong presence in industrial plants, commerce, government entities, etc. recognized for our quality of service, reliability, and responsibility towards our clients.",
+    "btn-volver-inicio": "Back to Home"
+  },
+  "valores": {
+    "titulo-valor": "Our Values",
+    "valor-1": "Quality",
+    "parrafo-valor-1": "Implementing the appropriate operational solutions to meet the needs of our clients, providing a service oriented towards continuous improvement in all our activities.",
+    "valor-2": "Reliability",
+    "parrafo-valor-2": "Creating a clear and transparent vision for our clients throughout the entire service process.",
+    "valor-3": "Responsibility",
+    "parrafo-valor-3": "We consider the fulfillment of our services in accordance with the established agreements and regulatory framework of our activity as highly important.",
+    "valor-4": "Ethics and Respect",
+    "parrafo-valor-4": "All our activities are primarily based on ethical management of service outsourcing and respect for the client and all parties involved in the provided service."
+    },
+  "basicsservices": {
+      "servicio-titulo": "Services",  
+      "servicio-titulo-parrafo": "We provide specialized labor outsourcing services tailored to the operational, logistical, and commercial needs of our clients.",  
+      "basicsservices-titulo-1": "Basic Services",
+      "basicsservices-parrafo-1": "Enhancing our clients' efficiency with agile and specialized solutions. Fundamental services that drive optimization and performance.",
+      "basico-1": "Part Selection, Analysis, and Recovery",
+      "basico-parrafo-1": "Sorting and recovery (rework) of parts with quality defects, avoiding production stops in our clients' own processes. Traceability, audits, root cause analysis, etc",
+      "basico-2": "Controlled Shipments (Loading and Unloading of Goods)",
+      "basico-parrafo-2": "Intervention process in the production process that ensures quality in the delivery of goods to our clients' customers. Preparation of reports, audits, tracking, and analysis of root causes that lead to quality deviations.",
+      "basico-3": "Integrated Logistics Processes",
+      "basico-parrafo-3": "We offer inventory stock service in warehouses and goods reception. Our process includes facility assembly or transshipment to deliver for future production from storage and logistics.",
+      "basico-4": "Fixed Antennas and Logistics Residents",
+      "basico-parrafo-4": "Preventive and corrective activity of the parts supplied for the manufacturing of vehicles, machinery, and components. Representing companies globally.",
+      "basico-5": "Goods Reception and Control",
+      "basico-parrafo-5": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "basico-6": "Material Transfers and Modulation",
+      "basico-parrafo-6": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "basico-7": "Material Selection for Recycling",
+      "basico-parrafo-7": "Careful material selection for recycling is essential to maximize process efficiency, ensure the quality of recycled materials, and promote a more sustainable and waste-free future.",
+      "basico-8": "Outsourced Labor Services",
+      "basico-parrafo-8": "Outsourced labor in production or logistics processes of our clients, corrective or scheduled maintenance of assets by our clients, personnel for facility installations or assembly of production lines including connections, commercial sectors, product and/or process engineering, among others",
+      "btn-volver-servicio": "Back to Services",
+      "btn-mas-basico": "More Basic Services"
+  },      
+  "technicalservices": {
+      "technicalservices-titulo-1": "Technical Services",
+      "technicalservices-parrafo-1": "Comprehensive technical solutions for the industry, ensuring quality at every stage of the process through specialized services.",
+      "tecnico-1": "Sheet Metal Inspection and Repair (Micro / Macro Dents)",
+      "tecnico-parrafo-1": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "tecnico-2": "Fiberglass Work and Two-component, Polyurethane, or Epoxy Painting",
+      "tecnico-parrafo-2":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",        
+      "tecnico-3": "General Blacksmithing with Mig, Mag, Tic, and Electric Welding",
+      "tecnico-parrafo-3": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "tecnico-4": "Industrial Assembly of Production Lines",
+      "tecnico-parrafo-4": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "tecnico-5": "Piece Analysis with Blueprint Interpretation",
+      "basico-parrafo-5": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "tecnico-6": "Fixed Antennas and Logistics Residents",
+      "tecnico-parrafo-6":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "tecnico-7": "Controlled Shipments with Process Auditors",
+      "tecnico-parrafo-7":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "tecnico-8": "Local and Regional Transportation, Inventories, and Warehouse Management",
+      "tecnico-parrafo-8":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor", 
+      "tecnico-9": "Material Treatment for Recycling (Scrap)",
+      "tecnico-parrafo-9":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor", 
+      "tecnico-10": "Industrial Maintenance",
+      "tecnico-parrafo-10":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "btn-mas-tecnico": "More Technical Services"    
+  },
+  "servicio-resto": {
+      "servicio-resto-titulo-1": "Clients",
+      "servicio-resto-titulo-2": "Satisfied Clients",
+      "servicio-resto-titulo-3": "R.R. H.H. Iveco",
+      "servicio-resto-parrafo-3": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "servicio-resto-titulo-4": "Renault Manager",
+      "servicio-resto-parrafo-4": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+      "servicio-resto-titulo-5": "Honda R.R. H.H. Manager",
+      "servicio-resto-parrafo-5": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor"
+  },
+  "contacto": {
+      "contacto-titulo-1": "Contact",
+      "contacto-parrafo-1": "We are here to provide you with personalized assistance. If you have any questions, comments, or need help, ",
+      "contacto-parrafo-2": "please contact us through any of the following communication channels: ",
+      "contacto-titulo-2": "Location"
+  },
+  "cotizar": {
+      "cotizar-titulo-1": "Request a Quote",
+      "cotizar-parrafo-1": "Fill in the form details to request a quote.",
+      "cotizar-btn-cotizacion": "Fill in Your Details",
+      "cotizar-titulo-2": "Why Work with Us?",
+      "cotizar-parrafo-2": "We provide specialized outsourcing services in operational, logistical, and commercial tasks tailored to your needs. We enhance efficiency with agile and professional solutions.",
+      "cotizar-parrafo-2-b": "We promote a sustainable future through careful selection of materials for recycling.",
+      "cotizar-parrafo-3": "Working with us means having a reliable partner who adapts to your needs, enhances your efficiency, and ensures quality at every stage of the process."
+  },
+  "curriculum": {
+      "curriculum-titulo-1": "Work with Us",
+      "curriculum-parrafo-1": "Choose a category and complete your data.",
+      "curriculum-parrafo-1b": "Don't forget to upload your CV.",
+      "curriculum-btn-curriculum": "Complete your Data",
+      "curriculum-titulo-2": "Administration",
+      "curriculum-parrafo-2": "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+      "curriculum-titulo-3": "Professionals",
+      "curriculum-parrafo-3": "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+      "curriculum-titulo-4": "Operators",
+      "curriculum-parrafo-4": "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+      "curriculum-titulo-5": "Why Work with Us?",
+      "curriculum-parrafo-5": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut labore et dolore magna aliqua.",
+      "curriculum-parrafo-5b": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut labore et dolore magna aliqua.",
+      "curriculum-titulo-6": ", Administrative",
+      "curriculum-parrafo-7": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "curriculum-parrafo-7b": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "curriculum-titulo-7": ", Control Operator"
+      
+}
+ 
+}
