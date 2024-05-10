@@ -43,11 +43,31 @@
 		
 }
 
+/* .flag-usa{
+  width: 30px !important;
+	height: 20px !important;
+} */
+
 .flags_img{
 	
 	cursor: pointer;
 	
 }
+
+@media (max-width: 14in) {  
+  .flags{
+    width: 12.5em;
+    height:4.25em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position:fixed;left:240px;
+    padding-right: 70px; 
+    padding-top: 20px;
+    justify-self: left;
+      
+  }
+  }
 
 /* WHATSAPP */
 
