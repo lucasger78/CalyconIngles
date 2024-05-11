@@ -119,15 +119,15 @@
         
       },
       "obras": {
-        "obras-titulo-1": "Obrass",
-        "obras-parrafo-1": "Soluciones tanto para obras industriales, civiles y viales.",
+        "obras-titulo-1": "Obras",
+        "obras-parrafo-1": "Soluciones tanto para obras industriales, civiles o viales.",
         "obra-1": "Obras Civiles",
         "obra-2": "Obras Industriales",
         "obra-3": "Obras Viales",
         "obra-4": "Obras Industriales",
         "obra-5": "Obras Viales",
         "obra-6": "Obras Civiles",    
-        "btn-mas-obras": "Más Obras"   
+        "btn-mas-obras": "Mas Obras"   
       },
       "servicio-resto": {
         "servicio-resto-titulo-1": "Clientes",
